@@ -1,0 +1,9 @@
+TO RUN ADMIN DJANGO
+
+cd googlelogin
+ pip install django-allauth
+python manage.py migrate
+python manage.py runserver
+
+user: admin21
+pass: admin21
